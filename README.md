@@ -1,37 +1,35 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/adamf123git/website/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  adamfarrell.com - v4
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Personal website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+  <strong>Original design and code by <a href="https://brittanychiang.com" target="_blank">Brittany Chiang</a></strong><br>
+  Source: <a href="https://github.com/bchiang7/v4" target="_blank">https://github.com/bchiang7/v4</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/adamfarrell/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/adamfarrell/v4/main/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+## 🙏 Attribution
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+This website is based on the amazing work by [Brittany Chiang](https://brittanychiang.com). The original source code can be found at [https://github.com/bchiang7/v4](https://github.com/bchiang7/v4).
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+I've customized it with my own content and information while maintaining the original design and structure that Brittany created.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+## 🚨 About this implementation
 
-### TL;DR
+This is a customized version of Brittany Chiang's portfolio website. All design credit goes to Brittany Chiang. I've simply updated the content to reflect my own information and experience.
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+If you're interested in using this design for your own website, please visit the original repository and follow Brittany's guidelines for forking and attribution.
 
 ## 🛠 Installation & Set Up
 

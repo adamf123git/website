@@ -1,14 +1,16 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "adamfarrell-website",
+  "description": "Adam Farrell's Personal Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Adam Farrell <farrella9@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/adamf123git/website.git"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "portfolio",
+    "adam-farrell"
   ],
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
